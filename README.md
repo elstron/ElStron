@@ -1,5 +1,8 @@
 ![image](https://github.com/ElStron/ElStron/assets/22538431/ba1fc404-b77d-4b31-9b67-77d51c7b04b1)
-																							Hi, I'm Stron!
+
+<p align="center" width="400">
+   <h3 align="center">Hi, I'm Stron!</h3>
+</p>
 
 <!--
 **ElStron/ElStron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
