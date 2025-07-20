@@ -37,7 +37,6 @@ I have experience deploying sites on Hosting with CPanel, VestaPanel on VPS with
 |--|--|
 |**Languages:** | Typescript, PHP, Rust |
 |**Frameworks:** | Express, Hono |
-|**Styling**| Tailwind CSS 4, Bootstrap 4/5 
 
 ---
 
