@@ -1,5 +1,4 @@
-
-  ![](https://svg-readme.stron-dev.workers.dev/image/profile.svg?ID=STRON)
+![](https://svg-readme.stron-dev.workers.dev/image/profile.svg?ID=STRON)
 
 ![image](https://github.com/ElStron/ElStron/assets/22538431/ba1fc404-b77d-4b31-9b67-77d51c7b04b1)
 
