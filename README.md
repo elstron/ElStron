@@ -1,7 +1,5 @@
 
-<p align="center"> 
-   <img src="https://komarev.com/ghpvc/?username=Elstron&label=Profile%20views&color=0e75b6&style=flat" alt="elstron" /> 
-</p>
+  ![](https://svg-readme.stron-dev.workers.dev/image/profile.svg?ID=STRON)
 
 ![image](https://github.com/ElStron/ElStron/assets/22538431/ba1fc404-b77d-4b31-9b67-77d51c7b04b1)
 
