@@ -1,5 +1,5 @@
 
-|![image](https://github.com/ElStron/ElStron/assets/22538431/ba1fc404-b77d-4b31-9b67-77d51c7b04b1) | ![](https://media.stron.dev/image/profile.svg?url=github.com?ds=22222222) |
+|![image](https://github.com/ElStron/ElStron/assets/22538431/ba1fc404-b77d-4b31-9b67-77d51c7b04b1) | [![](https://media.stron.dev/image/profile.svg?url=github.com?ds=22222222)](https://stron.dev)|
 | -------- | ------- |  
 
 <h2 align="center">I'm Stron 👋 </h2>
