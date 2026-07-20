@@ -1,10 +1,5 @@
 
-|![image](https://github.com/ElStron/ElStron/assets/22538431/ba1fc404-b77d-4b31-9b67-77d51c7b04b1) | [![](https://media.stron.dev/image/profile.svg?url=github.com?ds=22222222)](https://stron.dev)|
-| -------- | ------- |  
-
-<h2 align="center">I'm Stron 👋 </h2>
-
-<h3>Freelance Developer | 5+ Years Experience</h3>
+[![](https://media.stron.dev/image/profile.svg?url=github.com?ds=22222222)](https://stron.dev)
 
 FrontEnd and backend developer with Javascript, Typescript, PHP, Rust (Vanilla and WordPress), HTML and CSS (Vanilla, Tailwind, bootstrap), NodeJs, Wordpress.
 
@@ -48,14 +43,6 @@ I have experience deploying sites on Hosting with CPanel, VestaPanel on VPS with
 |**Languages:** | Typescript, PHP, Rust, Javascript |
 |**Frameworks:** | Express, Hono, GTK |
 
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/stron__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stron__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jose-luis-b-leyva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-luis-b-leyva" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@stron_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@stron_" height="30" width="40" /></a>
-</p>
 
 ---
 
