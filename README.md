@@ -44,10 +44,4 @@ I have experience deploying sites on Hosting with CPanel, VestaPanel on VPS with
 |**Frameworks:** | Express, Hono, GTK |
 
 
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elstron&show_icons=true&locale=en&layout=compact" alt="elstron" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elstron&show_icons=true&locale=en" alt="elstron" /></p>
-
 
